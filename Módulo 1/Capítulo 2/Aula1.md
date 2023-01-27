@@ -1,3 +1,5 @@
+ANOTAÇÕES AULA 1
+
 -> Bit é 0 ou 1
 
 -> Byte = 8 bits
@@ -15,3 +17,14 @@
     --> 1024 EB = 1 ZB
     --> 1024 ZB = 1 YB
 
+-> MB != Mb
+    --> Mb = Megabit
+    --> Armazenamento = Byte
+    --> Transmissão = bit
+
+-> Modem = realiza modulação de ondas
+
+-> DNS = Sistema de nome de domínio
+    --> Armazém de domínios de sites
+
+-> Rotas levam computador até o servidor
