@@ -1,0 +1,11 @@
+Referência MDN
+->  https://www.w3.org/standards/webdesign/
+
+W3C Standards
+->  https://developer.mozilla.org/pt-BR/docs/Web/Reference
+
+WHATWG Living Standard
+->  https://html.spec.whatwg.org
+
+W3Schools
+->  https://www.w3schools.com
