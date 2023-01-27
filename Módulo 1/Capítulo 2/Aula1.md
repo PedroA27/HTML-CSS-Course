@@ -28,3 +28,5 @@
     --> Armazém de domínios de sites\
 
 -> Rotas levam computador até o servidor
+
+![Captura de tela de 2023-01-27 17-54-53](https://user-images.githubusercontent.com/94874934/215195307-d695234f-475b-4009-acd6-c9825e37d59e.png)
