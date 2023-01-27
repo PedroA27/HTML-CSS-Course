@@ -1,4 +1,4 @@
-ANOTAÇÕES AULA 1
+## ANOTAÇÕES AULA 1
 
 -> Bit é 0 ou 1
 
