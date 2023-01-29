@@ -1,7 +1,7 @@
 ## ANOTAÇÕES AULA 2
 
 * Estrutura de domínio
-
+<br/><br/>
 * TLD = Top Level Domain
     * GTLD
     * CCTLD
