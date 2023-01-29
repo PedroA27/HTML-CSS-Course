@@ -15,13 +15,13 @@
 <br/><br/>
 * Função do servidor é criar uma cópia do CSS e do HTML na sua máquina para facilitar o acesso/compreensão
 <br/><br/>
-## CONTEÚDO HTML
+# CONTEÚDO HTML
 ![Captura de tela de 2023-01-28 21-55-56](https://user-images.githubusercontent.com/94874934/215298041-17ba1df0-8e45-4852-94d2-0d3e7a3dddf2.png)
 <br/><br/>
-## CONTEÚDO CSS
+# CONTEÚDO CSS
 ![Captura de tela de 2023-01-28 21-57-28](https://user-images.githubusercontent.com/94874934/215298079-3bff867b-744f-4d64-a752-83cdfc8ea449.png)
-
-## ESTRUTURA BÁSICA DE DOCUMENTO HTML
+<br/><br/>
+# ESTRUTURA BÁSICA DE DOCUMENTO HTML
 * head = configurações
 * body = corpo / conteúdo
 <br/><br/>
