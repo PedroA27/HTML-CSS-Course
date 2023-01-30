@@ -7,4 +7,10 @@
     * `<p>Parágrafo</p>`
 <br></br>
 * Linha horizontal
-    * Linha horizontal `<hr>`
+    * `<hr>`
+<br></br>
+* Equivale menor que (<)
+    * `&lt;`
+<br></br>
+* Equivale maior que(>)
+    * `&gt;`
