@@ -1,2 +1,5 @@
 # COMANDOS
-"<h1>Olá mundo</h1>""
+<br/><br/>
+* `<h1>Cabeçalho</h1>`
+* `<p>Parágrafo</p>`
+* Linha horizondal `<hr>`
