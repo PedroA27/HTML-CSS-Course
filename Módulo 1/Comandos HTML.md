@@ -31,3 +31,13 @@
 <br></br>
 * Endereço
     * `<address>Indica endereço no html</address>`
+<br></br>
+* Marcador
+    * `<mark>Marcação</mark>`
+
+<br></br>
+* Texto para cima
+    * `<mark>Texto para cima</mark>`
+<br></br>
+* Texto para baixo
+    * `<mark>Texto para baixo</mark>`
