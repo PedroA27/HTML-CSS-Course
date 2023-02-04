@@ -13,3 +13,5 @@
 * tag vermelhas criam problemas pois são obsoletas, funcionam mas por pouco tempo, já que as funções devem ser utilizadas no css
 
 * Usar CTRL + SHIFT + P e depois wrap abbreviation para colocar e parenteses mais rapido
+
+* Segurar ALT para criar múltiplos ponteiros e fazer alterações rápidas
