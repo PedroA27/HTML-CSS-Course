@@ -41,3 +41,21 @@
 <br></br>
 * Texto para baixo
     * `<mark>Texto para baixo</mark>`
+<br></br>
+* Lista ordenada
+    * `<ol></ol>`
+<br></br>
+* Lista não ordenada
+    * `<ul></ul>`
+<br></br>
+* Itens da lista
+    * `<li></li>`
+<br></br>
+* Lista de definições
+    * <quoteblock>
+        '<dl>
+            <dt>HTML</dt>
+            <dd>Linguagem de marcação para criação de conteúdo de um
+                site</dd>'
+        </dl>'
+    </quoteblock>
