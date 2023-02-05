@@ -53,9 +53,10 @@
 <br></br>
 * Lista de definições
     * <quoteblock>
-        '<dl>
+        `<dl>
             <dt>HTML</dt>
             <dd>Linguagem de marcação para criação de conteúdo de um
-                site</dd>'
-        </dl>'
+                site</dd>
+        </dl>`
     </quoteblock>
+
