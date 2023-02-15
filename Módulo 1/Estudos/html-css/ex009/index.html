@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <!-- transiciona imagem de acordo com o tamanho do site -->
+    <!-- 50 pixels amais podem ser utilizado para definir os limites de acordo com o tamanho da imagem, já que geralmente é o tamanho da barra de rolagem -->
+    <!-- importante envolver em picture -->
+    <picture>
+        <!-- quanto mais adicionar mais facilita -->
+        <!-- ordem precisa ser obedecida -->
+        <source media="(max-width: 1050px)" srcset="th-1969032246.png" type="image/png">
+        <img src="th-1960078295.png" alt="imagem flexível">
+    </picture>
+</body>
+</html>
