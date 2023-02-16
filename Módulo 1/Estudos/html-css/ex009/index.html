@@ -17,5 +17,31 @@
         <source media="(max-width: 1050px)" srcset="th-1969032246.png" type="image/png">
         <img src="th-1960078295.png" alt="imagem flexível">
     </picture>
+    <h1>Audiozinho</h1>
+    <!-- <audio src="duck.mp3" controls autoplay></audio> -->
+    <!-- Todos os formatos necessários para tocar em tudo são mp3 wav e ogg -->
+
+    <audio preload="metadata" autoplay controls loop>
+        <!-- metadata so carrega os metadatas, auto carrega tudo e none carrega nada, dependendo do que for pode pesar o site -->
+        <!-- Controls mostra barra -->
+        <!-- loop no audio  -->
+        <!-- Ordenação importa ele sempre tentará a primeira opção -->
+        <source src="duck.mp3" type="audio/mpeg">
+        <source src="duck.mp3" type="audio/ogg">
+        <source src="duck.mp3" type="audio/wav">
+        <p>Audio não tocou baixe 
+           <a href="link.com">aqui</a> </p>
+    </audio>
+    <h1>Videozinho</h1>
+    <!-- igualmente as imagens utilizar varios formatos -->
+    <!-- poster configura thumb -->
+    <video controls width="560" poster="th-1960078295.png">
+        <source src="Jorge.mp4"  type="video/mp4">
+    </video>
+    <h1>Video do Youtube</h1>
+    <p>utilizar videos hospedados no youtube</p>
+    <!-- Só precisa colar com incorporar -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4zWzA1M6XsQ?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- também podemos usar vimeo -->
 </body>
 </html>
